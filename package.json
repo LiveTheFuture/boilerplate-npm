@@ -2,6 +2,7 @@
 	"author": "Tobi Ademiju",
 	"name": "fcc-learn-npm-package-json",
 	"description": "This is a project that is my very own",
+	"keywords": ["nodejs, project, freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
